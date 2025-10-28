@@ -1,0 +1,1 @@
+This repo contains 2 files - 1 Jenkins groovy file and another one is unity editor script. I succesfully build CI/CD pipeline for Unity with Jenkins using this 2 scripts. The repo is more of a note and example, rather functional guide.
